@@ -1,1 +1,1 @@
-This is a simple ToDo List app.
+This is a simple to do/note taking app.
